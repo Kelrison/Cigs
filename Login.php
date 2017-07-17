@@ -46,7 +46,7 @@
                     <h2 class="title text-uppercase text-bold m-none"></i> Login</h2>
                 </div>
                 <div class="panel-body">
-                    <form class="m-t j_formLogin" role="form" method="post" action="Home.php" id="form-login">
+                    <form class="m-t j_formLogin" role="form" method="post" action="validalogin.php" id="form-login">
                         <div class="form-group mb-lg">
                             <label class="pull-left">Usuário </label> <span class="j_user text-danger"></span>
                             <div class="input-group input-group-icon">
